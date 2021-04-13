@@ -1,8 +1,5 @@
 ### Hi there 👋 My name is Zack
 
-<!--
-**king101-bit/king101-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Socialize 
@@ -13,4 +10,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Im on twiter @KrxzyDev
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm cool,i love linux
--->
