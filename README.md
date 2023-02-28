@@ -1,8 +1,12 @@
 <h3>
-👋 Hi, I’m @king101-bit
+👋 Hi, I’m @king101-bit or you can call me Zack I am a 14 year old programmer aspiring to be a computer scientist in the nearest future!
+  <br>
 👀 I’m interested in Music and Technology
+  <br>
 🌱 I’m currently learning APIs
+  <br>
 💞️ I’m looking to collaborate on Anything
+  <br>
 📫 How to reach me Instagram:(https://www.instagram.com/prod.krxzydev/) or Twitter: twitter.com/krxzydev
 </h3>
 <br>
