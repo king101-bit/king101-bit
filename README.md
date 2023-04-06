@@ -1,11 +1,4 @@
-    ____       _            _          ____        _       _
-   / ___| ___ | | _____  __| | ___ _ _| ___| _ __(_)_ __ | |_
-  | |  _ / _ \| |/ / _ \/ _` |/ _ \ '__/ _ \| '__| | '_ \| __|
-  | |_| | (_) |   <  __/ (_| |  __/ | | (_) | |  | | |_) | |_
-   \____|\___/|_|\_\___|\__,_|\___|_|  \___/|_|  |_| .__/ \__|
-                                                    |_|        
-
-Hi there, I'm Zack!
+#Hi there, I'm Zack!
 
 I'm a 14-year-old programmer with a passion for technology and music. My goal is to become a computer scientist in the near future.
 
