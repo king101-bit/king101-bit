@@ -23,7 +23,6 @@ I'm currently focusing on learning APIs to expand my programming skills and crea
 - Instagram: [![Instagram Icon](https://img.shields.io/badge/-Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prod.krxzydev/)
   <br>
 - Twitter: [![Twitter Icon](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/krxzydev)
-<br>
-  TikTok: [![TikTok Icon](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@krxzy_krabs?_t=8bGW0feTl3O&_r=1)
+-TikTok: [![TikTok Icon](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@krxzy_krabs?_t=8bGW0feTl3O&_r=1)
 
 Let's create something great together!
