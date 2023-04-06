@@ -1,4 +1,4 @@
-#Hi there, I'm Zack!
+# Hi there, I'm Zack!
 
 I'm a 14-year-old programmer with a passion for technology and music. My goal is to become a computer scientist in the near future.
 
