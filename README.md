@@ -1,6 +1,6 @@
 # Hi there, I'm Zack!
 
-I'm a 14-year-old programmer with a passion for technology and music. My goal is to become a computer scientist/software engineer in the near future.
+I'm a 15-year-old programmer with a passion for technology and music. My goal is to become a computer scientist/software engineer in the near future.
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
 
