@@ -5,9 +5,9 @@ I'm a 15-year-old programmer with a passion for technology and music. My goal is
 > "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
 
 ### My Most Starred Repository 🚀
-My most popular GitHub repository is **Stock_teller**, which has earned 2 stars 🌟 and counting! It's a Currency Stock exchange teller.
+My most popular GitHub repository is **Ayoba-Redesign**, which has earned 5 stars 🌟 and counting! It's a Currency Stock exchange teller.
 <br>
-Check it out here: [![<your-repository-name>](https://img.shields.io/badge/Stock_teller-blueviolet?style=for-the-badge)](https://github.com/king101-bit/Stock_teller)
+Check it out here: [![<your-repository-name>](https://img.shields.io/badge/Ayoba_redesign-blueviolet?style=for-the-badge)](https://github.com/king101-bit/Ayoba-Redesign)
 
 ### What I'm interested in 🎶👨‍💻
 Aside from programming, I'm an avid music lover and enjoy exploring different genres. I'm always on the lookout for new artists and tracks to add to my playlist.
