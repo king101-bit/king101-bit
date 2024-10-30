@@ -20,8 +20,6 @@ I wish to help other learn the skills I know and to help those in need.
 
 ### My Most Starred Repository 🚀
 My most popular GitHub repository is **Stock Teller**, which has earned 1 stars 🌟 and counting! It's a Currency Stock exchange teller.
-<br>
-Check it out here: [![<your-repository-name>](https://img.shields.io/badge/Ayoba_redesign-blueviolet?style=for-the-badge)](https://github.com/king101-bit/Stock_teller)
 
 ### What I'm interested in 🎶👨‍💻
 Aside from programming, I'm an avid music lover and enjoy exploring different genres. I'm always on the lookout for new artists and tracks to add to my playlist.
@@ -45,7 +43,19 @@ I'm currently focusing on learning **React** to expand my programming skills and
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" **alt="Vim" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bulma/bulma-plain.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/reactbootstrap/reactbootstrap-original.svg" title="React-Boostrap" **alt="React-bootstrap" width="40" height="40" />
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=king101-bit&theme=dark&background=000000)](https://git.io/streak-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=king101-bit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=king101-bit&theme=dark&background=000000" alt="GitHub Streak" />
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king101-bit&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
+  </a>
+</div>
+
