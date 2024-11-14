@@ -7,8 +7,8 @@
   <a href="https://twitter.com/krxzydev">
      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
 <img src="https://komarev.com/ghpvc/?username=king101-bit&style=flat-square&color=blue" alt=""/>
+  </div>
 </div>
 
 # Hi there, I'm Zack!
