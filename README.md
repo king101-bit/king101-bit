@@ -50,9 +50,9 @@ I'm currently focusing on learning **React** to expand my programming skills and
 
 ### :fire: My Stats :
 <div>
-  <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=king101-bit&theme=dark&background=000000" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=king101-bit&theme=dark-minimalist&mode=weekly&hide_longest_streak=true" alt="GitHub Streak" />
+</a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king101-bit&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
