@@ -12,7 +12,7 @@ I'm a 16-year-old programmer with a strong interest in software development, par
 
 ## 🛠️ Projects
 
-### [Stock Teller](https://github.com/username/StockTeller) 🚀
+### [Stock Teller](https://github.com/king101-bit/StockTeller) 🚀
 A currency exchange teller API that allows users to retrieve real-time currency exchange rates and perform simple conversions. The project uses **Python** and integrates with public APIs to fetch live exchange rates. 
 
 - **Stars**: 1 🌟
