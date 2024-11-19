@@ -4,7 +4,7 @@
 
 # Hi there, I'm Zack!
 
-I'm a 16-year-old programmer with a strong interest in software development, particularly in **web technologies** and **full-stack development**. My goal is to build projects that not only solve real-world problems but also enhance my understanding of technology.
+I'm a 16-year-old programmer with a strong interest in software development, particularly in **web technologies** and **full-stack development**. My goal is to build projects that not only solve real-world problems but also enhance my understanding of technology I speak **English & German(A1 currently)**.
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
 
@@ -14,10 +14,9 @@ I'm a 16-year-old programmer with a strong interest in software development, par
 
 ### [Stock Teller](https://github.com/king101-bit/StockTeller) 🚀
 A currency exchange teller API that allows users to retrieve real-time currency exchange rates and perform simple conversions. The project uses **Python** and integrates with public APIs to fetch live exchange rates. 
-
-- **Stars**: 1 🌟
 - **Technologies**: Python, REST APIs
-
+- 
+**More Projects to be added soon**
 ---
 
 ## 🎶 Interests
