@@ -10,15 +10,6 @@ I'm a 16-year-old programmer with a strong interest in software development, par
 
 ---
 
-## 🛠️ Projects
-
-### [Stock Teller](https://github.com/king101-bit/StockTeller) 🚀
-A currency exchange teller API that allows users to retrieve real-time currency exchange rates and perform simple conversions. The project uses **Python** and integrates with public APIs to fetch live exchange rates. 
-- **Technologies**: Python, REST APIs
-- 
-**More Projects to be added soon**
----
-
 ## 🎶 Interests
 Beyond programming, I'm passionate about music. I enjoy exploring different genres and discovering new artists. Music is a big part of my life, and I believe it brings a unique perspective to my coding projects.
 
