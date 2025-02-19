@@ -4,7 +4,7 @@
 
 # Hi there, I'm Zack!
 
-I'm a 16-year-old programmer with a strong interest in software development, particularly in **web technologies** and **full-stack development**. My goal is to build projects that not only solve real-world problems but also enhance my understanding of technology I speak **English & German(A1 currently)**.
+I'm a 16-year-old programmer with a strong interest in software development, particularly in **web technologies** and **full-stack development**. My goal is to build projects that not only solve real-world problems but also enhance my understanding of technology I speak **English & German**.
 
 > "Programs must be written for people to read, and only incidentally for machines to execute." - Harold Abelson
 
@@ -19,7 +19,7 @@ Beyond programming, I'm passionate about music. I enjoy exploring different genr
 
 ## 🌱 Currently Learning
 
-I'm expanding my skills in **React** to create dynamic and interactive web applications. I'm also exploring modern front-end workflows, including **React Hooks**, **Context API**, and **React Router**.
+I'm expanding my skills in **Next.JS** to create dynamic and interactive web applications. I'm also exploring modern front-end workflows.
 
 > "The best way to predict the future is to invent it." - Alan Kay
 
