@@ -66,19 +66,11 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
 
-<a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=king101-bit&theme=dark-minimalist&mode=weekly&hide_longest_streak=true" alt="GitHub Streak"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=king101-bit&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
-</a>
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=king101-bit&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=king101-bit&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 </div>
-
----
 
 ## 📬 Connect with Me
 
