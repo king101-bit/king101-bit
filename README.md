@@ -51,6 +51,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" width="50"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" width="50"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" width="50"/>&nbsp;
 
 </div>
 
