@@ -61,7 +61,7 @@
 
 ✅ Dive deeper into backend development, **databases & cloud services**.  
 ✅ Contribute to **open-source projects** in web development.  
-✅ Launch a **blog** to document and share my programming journey.  
+✅ Launch a **LMS** to teach others how to code.  
 
 ---
 
