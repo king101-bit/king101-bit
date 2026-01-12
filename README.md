@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full-Stack Developer exploring the world of technology.</h3>
 
 <p align="center">
-  🎓 17 y/o Full-Stack Developer | 💻 React, Node.js, Next.js | 🌍 English & German speaker  
+  🎓 18 y/o Full-Stack Developer | 💻 React, Node.js, Next.js | 🌍 English & German speaker  
   <br/>
 </p>
 
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-- 🖥️ I'm a **17-year-old** programmer passionate about **web development** and **full-stack engineering**.
+- 🖥️ I'm a **18-year-old** programmer passionate about **web development** and **full-stack engineering**.
 - 🌍 I speak **English & German**.
 - 🎯 I love building innovative projects that solve real-world problems.
 - 🎵 Outside of coding, I explore music—**genres, rhythms & new artists**.
@@ -64,8 +64,6 @@
 
 - [Coding LMS platform](https://github.com/king101-bit/Luna) — A platform to learn to code made with Nextjs and Supabase
 - [Real Estate site](https://github.com/king101-bit/Phoenix) — A dynamic real estate web app that enables users to browse property listings, view detailed descriptions, and explore locations seamlessly. Built with modern web technologies for responsive and intuitive user experience.
-- [Social media app](https://github.com/king101-bit/Gistly) —  A minimalist social media platform prototype, combining Markdown-based content and Next.js for a fast, SEO-friendly static site. Focuses on simplicity, fast page loads, and structured user-generated posts.
-
 ---
 
 ## 🏆 Highlights
