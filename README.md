@@ -6,7 +6,7 @@
 <h3 align="center">A passionate Full-Stack Developer exploring the world of technology.</h3>
 
 <p align="center">
-  🎓 18 y/o Full-Stack Developer | 💻 React, Node.js, Next.js | 🌍 English & German speaker  
+  🎓 18 y/o Full-Stack Developer | 💻 React, Node.js, Next.js | 🌍 English (native), German (basic – A1)
   <br/>
 </p>
 
